@@ -1,0 +1,157 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mercurius infernalis; or Orderlesse orders, votes, ordinances, and commands from Hell established by a close committee of the Divell and his angells. Done neither by day, night, nor order, because neither time, place, person or order is to be observed in the infernall kingdome. The copy of this was found in a chink or cranny of a wall in Frier-Bacons study, By John Taylor.</title>
+            <author>Taylor, John, 1580-1653.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A64182</idno>
+            <idno type="STC">Wing T482</idno>
+            <idno type="STC">ESTC R222140</idno>
+            <idno type="EEBO-CITATION">99833367</idno>
+            <idno type="PROQUEST">99833367</idno>
+            <idno type="VID">37843</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A64182)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37843)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2066:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mercurius infernalis; or Orderlesse orders, votes, ordinances, and commands from Hell established by a close committee of the Divell and his angells. Done neither by day, night, nor order, because neither time, place, person or order is to be observed in the infernall kingdome. The copy of this was found in a chink or cranny of a wall in Frier-Bacons study, By John Taylor.</title>
+                  <author>Taylor, John, 1580-1653.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by L. Lichfield],</publisher>
+                  <pubPlace>[Oxford :</pubPlace>
+                  <date>Printed in the yeare 1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of printing and printer's name from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Political satire, English --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:37843:1" rendition="simple:additions"/>
+            <p>MERCVRIVS INFERNALIS; OR <hi>ORDERLESSE ORDERS,</hi> Votes, Ordinances, and Commands from Hell, eſtabliſhed by a cloſe Committee of the Divell and his Angells. DONE Neither by Day, Night, nor Order, becauſe neither Time, Place, Perſon or Order is to be obſerved in the Infernall KINGDOME.</p>
+            <p>THE <hi>Copy of this was found in a Chink or Cranny of a Wall in</hi> Frier-Bacons <hi>Study,</hi> By JOHN TAYLOR.</p>
+            <p>Printed in the Yeare 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:37843:2"/>
+            <pb n="1" facs="tcp:37843:2"/>
+            <head>MERCVRIVS INFERNALIS, Or orderleſſe Orders, &amp;c.</head>
+            <p>
+               <seg rend="decorInit">W</seg>EE <hi>Sultan Sathan,</hi> Great Emperour of <hi>Erebus, Barathrum, Averuus, Acheron, Stix,</hi> and <hi>Phle<g ref="char:EOLhyphen"/>geton;</hi> King of <hi>Gehenna, Cocytus, Dis, Tophet,</hi> and <hi>Tartarus;</hi> Lord of the Infernall <hi>Cimmerian</hi> Abyſſ. profundity of the Sulphurous <hi>Limbo, Lethe,</hi> and the Stigian Lakes, did long ſince with the advice of our States and Committees Aſlembled, for the enlarging of our Kingdomes and Territories, and the amplifying of our greatneſſe and renowne, cauſe theſe our Commands to be put in ſpeedy Exe<g ref="char:EOLhyphen"/>cution.</p>
+            <p>Whereas our Truſty Agents, Meſſengers, Scouts, and others our ingenious and vigilant ſervants, have (by our Inſtigations and Commands) done us great and acceptable Services in <hi>Germany</hi> for theſe 24. yeares, inſomuch that that goodly Empire is wa<g ref="char:EOLhyphen"/>ſted with Wars, Bloudſhed, Famine and deſolation; and for that the Kingdomes of Great <hi>Brittain</hi> and <hi>Ireland</hi> have been theſe ma<g ref="char:EOLhyphen"/>ny yeares in ſuch a happy condition of Peace, plenty, and all other bleſſings, to the Envy and admiration of all Nations, and to our great griefe and Sorrow; for we could not but with ſhame and aſto<g ref="char:EOLhyphen"/>niſhment wonder that thoſe Countries and Regions onely enjoy<g ref="char:EOLhyphen"/>ed the fruition of Tranquillity, whil'ſt moſt of the Nations of the world were fil'd with rapine, miſcheife, murther and confuſion; ſo that it was a common ſpeech amongſt them (in deriſion of our pro<g ref="char:EOLhyphen"/>found ancient policy and wiſedome) to ſay, <hi>The Diuell's an Aſſe:</hi> which abuſes and calumnies coming to the eares of our Infernall Hell-hood, we (in vindication of our honour) thought it high time to beſtirre our ſelfe to worke ſome vengeance on thoſe refractory people, by ſowing and diſperſing diviſions amongſt them in their Churches, and Rebellion to their King. For the Government which they kept, both Eccleſiaſticall and Civill, was ſo greivous
+<pb n="2" facs="tcp:37843:3"/>unto us, that ſince our firſt fall from Heaven we had never any thing that tormented us more. In ſerious conſideration of the Pre<g ref="char:EOLhyphen"/>miſſes, we, with the advice of our Truſty Councellours, &amp; Iudges, Namely <hi>Caine, Corah, Dathan, Abiram, Pharaoh, Achitophell, Rabſhekah, Iudas, Cataline, Sylla, Marius, Nero, Caligula, Domi<g ref="char:EOLhyphen"/>tian, Helliogabalus, Minos, Eacus, Radamanthus, Machiavell, Faux, Ravillac,</hi> and many of the Turkiſh, Iewiſh, Anabaptiſticall, Brow<g ref="char:EOLhyphen"/>niſticall and Ieſuiticall Clergy, we did (3. yeares paſt) order and ordaine, for the breach of the peace in the aforeſaid Kingdoms of great <hi>Brittaine</hi> and <hi>Ireland,</hi> theſe plots, policies and projects fol<g ref="char:EOLhyphen"/>lowing.</p>
+            <p>Firſt, we order that ſome of our cunningeſt Divels ſhould be ſent by our Authority into thoſe parts, who ſhould take upon them the ſhapes and habites of ſincere religious perſons, and inſinuate them<g ref="char:EOLhyphen"/>ſelves, firſt amongſt fooliſh women, and ſilly Tradeſmen, with huge multitudes of the off-ſcum rabble of the people. Theſe were all to be perſwaded to deſpiſe, ſcorne, &amp; contemne the true ſetled religion amongſt them; To deride and hate all order, decency, and Chriſtian conformity either to the Church, Church-Government, or Governours; To demoliſh and deface all manner of ornaments, or any thing of Laudable memory, either of Patriarkes, Prophets, Apoſtles, or of our greateſt Conquerour and Enemy <hi>Jeſus Chriſt.</hi> All theſe things were effectually done according to our command; and for the further encreaſe of our Kingdom of Darkneſſe, we have cauſed our deadly foes (the Orthodox preachers) to be degra<g ref="char:EOLhyphen"/>ded, diſmiſt, baniſhed, impoveriſhed, impriſoned, deſpiſed, diſ<g ref="char:EOLhyphen"/>graced, ſtarv'd and murtherd, that ſpake ſo boldly and frequently a<g ref="char:EOLhyphen"/>gainſt us and our adherents. And in their roomes we have placed Hypocrites of our owne moulding and ſtamping, who do perſwade the people vehemently to our ſervice and liking, and moſt violent<g ref="char:EOLhyphen"/>ly againſt their Soveraigne in Rebellion.</p>
+            <p>Secondly, we ordered that becauſe the King was our great<g ref="char:EOLhyphen"/>eſt and Inveterate oppoſite upon Earth, our new pulpit-men ſhould preach nothing but Sedition, contention, and diſobedience againſt him, and that it ſhould be the loſſe of their places and Liber<g ref="char:EOLhyphen"/>ty to ſpeak truth, to mention the Beleife, or Chriſtian Faith, to read the Lords Prayer, or repeat the ten Commandements, to the end they ſhall forget to beleive in God, or put any confidence in the
+<pb n="3" facs="tcp:37843:3"/>King: by which two principles or Maximes, there are many thou<g ref="char:EOLhyphen"/>ſands come to us, which we did not ſo ſuddainly expect: for though we ſeldome ſpeak truth, yet we muſt acknowledge that thoſe late good Members at <hi>Weſtminſter</hi> have done us more ſervice in ſo ſhort a time then all the Rebels (their predeceſſors, and our deare ſonns) have done ſince the Creation of the world.</p>
+            <p>We our ſelfe are endued with much Learning, for we have ſo much ſchollarſhip that we know and underſtand all the Speeches, Tongues and Languages in the Vniverſe and Vniverſities; and we muſt with admiration ſtand amazed at the Loyalty, Integrity, In<g ref="char:EOLhyphen"/>genuity, and policy of thoſe (our truſty Agents) that with ſuch ex<g ref="char:EOLhyphen"/>pedition could ſo ſoone and ſo much ruinate their owne Country, and ſo Eclipſe the Proteſtant Religion (which we moſt hate) that we could not have deviſed to have given and granted them a Com<g ref="char:EOLhyphen"/>miſſion that could have ſo large an extent as they have ſtretched their politicall power.</p>
+            <p>We confeſſe, that though we were the firſt Rebell, and the moſt ancient father of Rebellion, we began it in Heaven; for the which we were throwne down to Hell: we practiſed it on poor <hi>Adam</hi> &amp; his Conſort in <hi>Paradiſe,</hi> we have not, nor will not be negligent to infuſe it into all their poſterity; yet we muſt acknowledge, that our ſelf and all the reſt of you aſſembled here (our truſty Councellours) neither could, or ever did accompliſh ſo great a ſervice as the do<g ref="char:EOLhyphen"/>ing theſe pleaſing miſcheifes to the Church and Kingdoms of great <hi>Brittaine</hi> and <hi>Ireland:</hi> in which meritorious work they have ſo far out gone us, and all former precedents, that we muſt confeſſe old age hath brought us to dotage; and all the Rebells and Traitors ſince Time began were but ſlight witted ſhallow pated fellows to theſe our ſonnes of <hi>England, Scotland,</hi> and <hi>Jreland,</hi> which though we know they cannot continue, and that they muſt faile and fall in the end, yet (by our inſpirations) they will go on; and where they can<g ref="char:EOLhyphen"/>not conquer and overcome, they ſhall attempt to do miſcheife.</p>
+            <p>Firſt, (beyond our capacity or knowledge) the moſt part of the Members had the ſubtilty to inforce and affright their Tenants and other people to ſpend their voyces for them in their election to be Parliament-men. Secondly, many who feared them not, were bribed to come their ſelves and bring their friends to cry alowd, and make a wicked muſicall noiſe with bawling out the names of <hi>Pym, Haſle<g ref="char:EOLhyphen"/>rigge,</hi>
+               <pb n="4" facs="tcp:37843:4"/>with the reſt of our ſons, the Members. Thirdly, ſome were guld, foold, and flatterd to extend their <hi>Stentorian</hi> voices, not know<g ref="char:EOLhyphen"/>ing why, wherefore, or for whom. And the firſt buſineſſe of theſe politicians was to worke ſo, that an act muſt paſſe that they might ſit, vote, rule, and do what they pleaſe as long as they liſt.</p>
+            <p>That being enacted, they craftily ſearched and undermined the opinions and diſpoſitions of all the Members (their bre<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hren) and as many of them as they found or ſuſpected to be Loyall to the King, or true Proteſtants, thoſe were droven, expulſt, and thruſt out of their ſociety, as Malignant perſons to the State, and unfit for their company. This being done, they very wittily got all the ſtrength of the <hi>Militia</hi> into their hands, and withall (by the meanes of our truſty ſervants their preachers, and our dear villaines the Pam<g ref="char:EOLhyphen"/>phleteers) fil'd and poſſeſt the people with lyes, feares and jealou<g ref="char:EOLhyphen"/>ſies againſt the King, that he would alter Religion, and turne Ty<g ref="char:EOLhyphen"/>rant: and theſe ſervices of theirs were exceeding pleaſing to our Graceleſſe Majeſty.</p>
+            <p>Then becauſe they would have no King, (or keep him they had brought him ſo low downe, that he ſhould never riſe) they ſeiſed on all his Revenues, his Subſidies, Goods, Lands, Moneyes, Jew<g ref="char:EOLhyphen"/>els, Townes, Caſtles, Ammunition, Ordnance, Navy, Parkes, nay his very Children they tooke and doe keep from him; they forced him from them by Tumults, to ſeek ſafety. And alſo they cauſed his Queen to croſſe the dangerous Ocean twice, rather expoſing her ſelfe to the danger of Windes and Seas, then to remaine in ha<g ref="char:EOLhyphen"/>zard amongſt them. And this ſervice was much delighting to us, and all our damned Subjects.</p>
+            <p>In theſe employments (Money beginning to be ſhort) and <hi>Ire<g ref="char:EOLhyphen"/>land</hi> in Rebellion, they deviſed a moſt rare project, to ſell their Lands that they eſteemed as Rebels there, to as many fooles and mad men in <hi>London</hi> (or any where) as would buy them: of which chapmen they found enow, for large penniworths were afforded; and Coyne came in a pace with avengeance, which was by the Members declared to be for the releife of the oppreſſed diſtreſſed proteſtants in <hi>Ireland;</hi> but wondrous wiſely they never were re<g ref="char:EOLhyphen"/>leived with it: for the ſaid Money was imployed to more neceſſary and important uſes, as in Rebellion againſt their King, and ſpoyling of <hi>England,</hi> the whil'ſt poore <hi>Ireland</hi> was left open to Inteſtine wars and ſelfe deſtroying.</p>
+            <pb n="5" facs="tcp:37843:4"/>
+            <p>That Spungy Project being ſqueezd dry in the preſſe of Rebel<g ref="char:EOLhyphen"/>lion, the Members having no more inviſible Land to ſell, and chea<g ref="char:EOLhyphen"/>ted fooles would buy no more Caſtles in the Ayre, or Meddowes in the Clouds; then they made a fine thing (like a Puppet) which they called <hi>Publique Faith,</hi> which Faith had more tricks then the famous <hi>Hocus Pocus,</hi> for though it was never ſeen, felt, heard or underſtood, yet (by the impoſturing Art of Equivocating Legerde<g ref="char:EOLhyphen"/>maine) the ſaid Faith did paſſe with hey paſſe and repaſſe, as an univerſall pawne for Millions of mony to be lent upon it (in the Kings name and Parliaments) to be imployed to deſtroy the King and Kingdom, and to deceive or begger as many as did put any con<g ref="char:EOLhyphen"/>fidence in that unſaving Faith. And now the People doe perceive themſelves to be palpable couzened and cheated of their Plate, Mon<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y, Jewells, and other goods, they not knowing where to find the pawne, (or the Faith that is publiquely engaged for it) the Members having no other way to ſave their diſmemberd Reputa<g ref="char:EOLhyphen"/>tions, nor ſecure themſelves from being torne in pieces by the ſe<g ref="char:EOLhyphen"/>duced cheated multitude; then they began to levy. Aſseſsements, and weekly and monthly Contributions, with moſt heavy inſup<g ref="char:EOLhyphen"/>portable Taxations; and though they had made the People beleeve things againſt the King, which he never meant, as that he would raiſe the Dutch Exciſe upon them, yet they raiſed the ſame Exciſe themſelves more then a yeare before the King did; nor had the King ever done it, but that they began long before him, and ſhew'd him the way; nor will he hold it longer then they are Rebells, and neceſſity requires. But the Members have no other meanes left now to pay the ſaid vaſt Summes againe, but by Robbing, Plunde<g ref="char:EOLhyphen"/>ring, and utterly undoing all the Kings true Subjects, (who are our moſt oppoſite, hated, and hatefull enemies) that ſo by Ruinating the good and honeſt men of their goods, eſtates and lives, they may pay the Fooles and Knaves ſuch debts as are due unto them upon the empty pawne of the <hi>Publique Faith.</hi>
+            </p>
+            <p>And (to our further great contentment) they have deviſed, and inforc'd upon the People ſuch Covenants of Confuſion, ſuch Oaths of Rebellion, and ſuch Proteſtations of Damnation, that we our ſelfe, with the advice of you, and all our Infernall old and new Councellors, could never have contrived the like for the enlarging of our greatneſſe.</p>
+            <pb n="6" facs="tcp:37843:5"/>
+            <p>And for our further contentment, our ignorant Sons, Coach-men, Carters, Colliers, Coopers, Cuckolds, Tinkers, and Tub-preachers, have ſufficiently abuſed the Scriptures with thouſands of vari<g ref="char:EOLhyphen"/>ous Interpretations and Expoſitions, whereby many heards and droves of our ſimple ſingle-ſould ſonnes and daughters have ſent their thred-bare wits a wooll gathering, being all moſt delicately mad in Rebellion againſt God and the King: yet we muſt confeſſe our ſelfe to be indebted to ſome of their learned Paſtors and Poets, who have good wits and parts in 'em, but (to advance our ſervice) they deliciouſly, viciouſly employed them; ſuch as are <hi>Cornelius Burgeſſe,</hi> the two <hi>Sedgwicks,</hi> the poor wicked <hi>Caſe, &amp;c.</hi> with our deare ſons <hi>Mercurius Britannicus, George Wither</hi> (the Gull's Dar<g ref="char:EOLhyphen"/>ling) and <hi>Booker,</hi> the Aetheriall Planeteriall learned Preterpluper<g ref="char:EOLhyphen"/>fect Aſſe-trologian, with the reſt of our <hi>Engliſh and Scottiſh</hi> Doves, Scoutes, Scoundrells and Lyurnall-makers; we, (by our incitement and ſpirit of damnable infuſion) ſet them a worke, nor will we faile to pay them their wages, for we are ſure that never any Re<g ref="char:EOLhyphen"/>bell or Traitor, or witch or villaine, had cauſe to complaine againſt us for non-payment.</p>
+            <p>Our feare is, that this rare and deare Rebellion will not laſt and continue as long as we would have it; we doubt the King will prevaile, and then our market is quite ſpoild: but when all comes to all, and that all comes to nothing, we have provided for our ſonnes (the Rebells) that no wordly want or trouble ſhall moleſt them, for we intend to ſend all or many of them ſailing by Land in a hanging Voyage.</p>
+            <p>Thus have we, contrary to our nature and cuſtome, ſpoken truth<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> but conſider it is in private amongſt our ſelves, we would not have it knowne to the People; for then it may perhaps be Printed and publiſhed to the hinderance of our Cauſe, and diſcouragement of our ſonnes the Rebells, to whom we wiſh encreaſe of wicked<g ref="char:EOLhyphen"/>neſſe and malediction Eternall.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:37843:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
